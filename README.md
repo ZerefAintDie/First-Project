@@ -2,13 +2,11 @@
 Basic data from my computer
 <html>
   <head>
-    <title>Buat lu semwa</title>
+    <title>Halo teman teman</title>
       </head>
       <body>
       <script>
-        alert("Halo anak pntek");
-        alert("Lu kemana aja anjg");
-        alert("Jan bucin trs kntl");
+        alert("Halo gais aku udah tobat");
         
         </script>
   </body>
